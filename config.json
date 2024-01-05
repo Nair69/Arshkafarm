@@ -90,12 +90,12 @@
         }
     },
     "main": {
-        "token": "",
-        "userid": "",
-        "channelid": "",
-        "owodmchannelid": "",
-        "gamblechannelid":"",
-        "autoquestchannelid": ""
+        "token": "ODYwNTQ4ODE3MjI5NDQ3MTg4.GWmOYa.0gJcabXaDlk7nHc947ivI1JwasEUqMyaRJ88H8",
+        "userid": "860548817229447188",
+        "channelid": "983658740681175060",
+        "owodmchannelid": "1192818644204404747",
+        "gamblechannelid":"983658740681175060",
+        "autoquestchannelid": "983658740681175060"
     },
     "extra": {
         "token": "",
